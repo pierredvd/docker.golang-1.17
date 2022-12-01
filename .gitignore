@@ -1,0 +1,4 @@
+/console.cmd
+/go/bin/*
+/go/pkg/*
+!**/.gitkeep
